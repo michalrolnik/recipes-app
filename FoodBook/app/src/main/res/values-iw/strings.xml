@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="area">קטגוריה:</string>
+    <string name="instructions">הוראות</string>
+    <string name="category_name">קטגוריה</string>
+    <string name="add_new_meal">הוסף מנה חדשה</string>
+    <string name="meal_deleted">ארוחה נמחקה</string>
+    <string name="meal_saved">ארוחה נשמרה</string>
+    <string name="undo">ביטול מחיקה</string>
+    <string name="instructions_">הוראות</string>
+    <string name="meal_name">שם מנה</string>
+    <string name="name">שם:</string>
+    <string name="instructions__">הוראות:</string>
+    <string name="add_meal_picture">הוסף תמונה</string>
+    <string name="add_the_meal">הוסף מנה</string>
+    <string name="home">בית</string>
+    <string name="what_would_you_like_to_eat">מה תרצה לאכול?</string>
+    <string name="most_popular_meals">המנות הכי פופולרית:</string>
+    <string name="categories">קטגוריות</string>
+    <string name="israel">ישראל!!</string>
+    <string name="israel_">ישראל</string>
+    <string name="meal_name_">שם מנה</string>
+    <string name="click_to_read_more">לחץ לקרוא עוד</string>
+    <string name="add_new_meal_">הוסף מנה חדשה</string>
+    <string name="search_meals">חפש מנה...</string>
+    <string name="textview_">טקסט</string>
+    <string name="textview__">טקסט</string>
+    <string name="home_sweet_home1">אין כמו בבית</string>
+    <string name="recognize_home_location">הבחנו שאתה נמצא בביתך, מרגיש חסר כוחות? צא מזה ותכין ארוחה טעימה באמצעות האפליקציה שלנו. קדימה התחל לבשל!</string>
+    <string name="set_home_message">לחיצה ארוכה בכדי לקבוע כמיקום בית</string>
+    <string name="location_saved_as_home">מיקום נשמר כמיקום הבית שלך</string>
+    <string name="empty_fields">פרטים חסרים</string>
+    <string name="empty_field_content">אנא מלא את כל השדות הנדרשים בכדי לשמור את המתכון שלך</string>
+    <string name="enter_name_of_meal">הזן שם מנה</string>
+    <string name="enter_instructions">הזן הוראות הכנה</string>
+    <string name="pick_image">בחר תמונה</string>
+    <string name="add_meal">הוסף מנה</string>
+    <string name="home2">בית</string>
+    <string name="favorite">מועדפים</string>
+    <string name="category2">קטגוריות</string>
+    <string name="my_meals">הארוחות שלי</string>
+    <string name="yummy">יאמי!!</string>
+    <string name="count_of_meals">כמות ארוחות : </string>
+</resources>

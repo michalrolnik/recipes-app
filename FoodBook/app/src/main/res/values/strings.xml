@@ -1,0 +1,45 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="area">Category:</string>
+    <string name="instructions">-Instructions:</string>
+    <string name="category_name">Category Name</string>
+    <string name="add_new_meal">Add New Meal</string>
+    <string name="name">name</string>
+    <string name="instructions__">Instructions:</string>
+    <string name="add_meal_picture">Add Meal Picture</string>
+    <string name="home">Home</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat?</string>
+    <string name="most_popular_meals">Most popular meals</string>
+    <string name="categories">Categories</string>
+    <string name="israel">Israel!!!!</string>
+    <string name="israel_">Israel</string>
+    <string name="meal_name_">Meal Name</string>
+    <string name="click_to_read_more">Click To Read More</string>
+    <string name="add_new_meal_">Add New Meal</string>
+    <string name="search_meals">Search Meals...</string>
+    <string name="textview_">TextView</string>
+    <string name="textview__">TextView</string>
+    <string name="textview" translatable="false">Text</string>
+    <string name="home_sweet_home1">Home sweet home</string>
+    <string name="recognize_home_location">we Recognized you\'re in your house location. Feeling lazy? Shake it off and whip up a delicious meal with our app. Let\'s get cooking!</string>
+    <string name="set_home_message">Long-press to set as house location!</string>
+    <string name="location_saved_as_home">Location saved as your house.</string>
+    <string name="empty_fields">Empty fields</string>
+    <string name="empty_field_content">Please select in all required fields to proceed with adding your meal</string>
+    <string name="enter_name_of_meal">Enter name of meal</string>
+    <string name="enter_instructions">Enter instructions</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="add_meal">Add meal</string>
+    <string name="home2">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="category2">Categories</string>
+    <string name="my_meals">My Meals</string>
+    <string name="yummy">Yummy</string>
+    <string name="count_of_meals">"Count of meals : "</string>
+    <string name="meal_deleted">Meal Deleted</string>
+    <string name="meal_saved">Meal saved</string>
+    <string name="undo">Undo</string>
+
+
+</resources>
